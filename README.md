@@ -1,4 +1,13 @@
-## Hi there 👋
+## Привет! Я Александра👋
+
+Я начинающий программист, который только начинает свой путь в этой истории.🤗
+
+  Мои хобби:
+* Игра на гитаре🤘
+* Люблю петь🎤
+
+😊Спасибо что посетили мой профиль!😊
+  
 
 <!--
 **sandriite/sandriite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
